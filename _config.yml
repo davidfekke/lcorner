@@ -11,7 +11,7 @@ email: davidfekke@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Local corner wireframe
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fek.io/lcorner" # the base hostname & protocol for your site
+url: "https://fek.io/lcorner/" # the base hostname & protocol for your site
 twitter_username: davidfekke
 github_username:  nichuf
 

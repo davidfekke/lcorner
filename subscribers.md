@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Subscribers
-permalink: /Subscribers/
+permalink: /subscribers/
 ---
 
 # Subscribers

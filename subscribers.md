@@ -8,4 +8,4 @@ permalink: /Subscribers/
 
 Users can add a picture on this page and a description.
 
-[Add picture button](/businesscards)
+[Add picture button]({{ site.baseurl }}/businesscards)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lets Optimize your website
+title: Subscribers
 permalink: /subscribers/
 ---
 

@@ -11,13 +11,31 @@
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
-        {% for my_page in site.pages %}
+        <li>
+            <a class="page-link" href="{{ site.baseurl }}/admin/">Admin</a>
+        </li>
+        <li>
+            <a class="page-link" href="{{ site.baseurl }}/businesscards/">Business Cards</a>
+        </li>
+        <li>
+            <a class="page-link" href="{{ site.baseurl }}/customers/">Customers</a>
+        </li>
+        <li>
+            <a class="page-link" href="{{ site.baseurl }}/login/">Login</a>
+        </li>
+        <li>
+            <a class="page-link" href="{{ site.baseurl }}/picture/">Picture</a>
+        </li>
+        <li>
+            <a class="page-link" href="{{ site.baseurl }}/subscribers/">Subscribers</a>
+        </li>
+        <!-- {% for my_page in site.pages %}
           {% if my_page.title %}
           <li>
             <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           </li>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
       </ul>
     </div><!--/.nav-collapse -->
   </div>

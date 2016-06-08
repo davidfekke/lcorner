@@ -4,7 +4,7 @@ title: Admin
 permalink: /admin/
 ---
 
-[Subscribers](/login)
+[Subscribers]({{ site.baseurl }}/login)
 
 IT issues Notifications
 A) lead generation

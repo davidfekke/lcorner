@@ -7,7 +7,7 @@ description: ""
 <div class="container">
     <form class="form">
         <label for="inputUsername" class="sr-only">Email address</label>
-        <input type="username" id="inputUsername" class="form-control" placeholder="Username" required autofocus />
+        <input type="text" id="inputUsername" class="form-control" placeholder="Username" required autofocus />
         <br />
         <label for="inputEmail" class="sr-only">Email address</label>
         <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus />
@@ -18,7 +18,7 @@ description: ""
         <label for="inputConfirmPassword" class="sr-only">Password</label>
         <input type="password" id="inputConfirmPassword" class="form-control" placeholder="Confirm Password" required>
         <br />
-        <button class="btn btn-lg btn-primary btn-block" onclick="location.href='{{ site.baseurl }}/billinginfo/'">Sign in</button>
+        <button class="btn btn-lg btn-primary btn-block" onclick="location.href='{{ site.baseurl }}/billinginfo/'">Create your Membership</button>
     </form>
 </div>
 
